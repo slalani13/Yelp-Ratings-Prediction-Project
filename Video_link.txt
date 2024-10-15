@@ -1,0 +1,15 @@
+﻿Group 11 Presentation Video Deliverable
+
+
+Group 11: Madhu Bala Sankaralingam, Melissa Wu, Shariq Lalani
+
+
+Video Description: The following presentation showcase’s Group 11’s Yelp data analysis and answers to the business questions in Track 2: Ratings Prediction. Our main objective is to enhance customer experience and business performance through data-driven insights for the participating businesses on Yelp. Utilizing the data on customer reviews, customer profiles, and business profiles, we plan to address answer 3 key questions: 
+
+
+1) Given a business profile and a customer profile, can we estimate the rating that the customer would give to the business? 
+2) What are the key features in the business profile/customer profile that influence a customer’s impression of a business?
+3) How can businesses address any identifiable trends in customer rating behaviors?
+
+
+Video link: https://drive.google.com/file/d/1YLUoYVwfQuVu7yim9n1mYvfNIANx6-Ba/view?usp=drive_link
